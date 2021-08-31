@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="icons/01d.svg" alt="Logo" width="100">
   </a>
 
   <h3 align="center">Weather App V1.0</h3>
@@ -38,4 +38,4 @@ Project Link: [https://heydaya.github.io/projects/weather](https://heydaya.githu
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: screenshot.png
