@@ -41,4 +41,4 @@ Project Link: [https://heydaya.github.io/projects/weather](https://heydaya.githu
 [product-screenshot]: screenshot.png
 
 
-<!-- Readme Template by - https://github.com/othneildrew/Best-README-Template -->
+Readme Template by - (https://github.com/othneildrew/Best-README-Template)
